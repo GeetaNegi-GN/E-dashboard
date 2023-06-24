@@ -22,7 +22,7 @@
   text-align: center;
 }
 
-.register{
+.register, .product{
   margin-left: 30%;
 }
 .login{
@@ -48,4 +48,25 @@
 
 .nav-right{
   text-align: right;
+}
+.invalid-input{
+  display: block;
+  color: red;
+  margin-top: -20px;
+  margin-left: 20px;
+}
+
+.product-list {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product-list ul li {
+  display: inline-block;
+  width: 150px;
+  border: 1px solid skyblue;
+  padding: 5px;
+}
+.product-list ul{
+  margin: 0px;
 }
