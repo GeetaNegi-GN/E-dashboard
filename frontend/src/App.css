@@ -70,3 +70,11 @@
 .product-list ul{
   margin: 0px;
 }
+.search-product{
+  width: 400px;
+  margin: 20px;
+  height: 38px;
+  padding-left: 30px;
+  border: 1px solid skyblue;
+
+}
